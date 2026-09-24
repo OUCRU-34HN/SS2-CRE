@@ -1,4 +1,4 @@
-# [Manuscript Title]: Analysis Code
+# [Mortality and excess length of hospital stay caused by carbapenem resistant Enterobacterales infections: a multicentre matched cohort and multistate analysis in Vietnam]: Analysis Code
 
 This repository contains the analysis code accompanying the manuscript:
 
